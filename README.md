@@ -18,6 +18,7 @@ QuizApp is a ReactJS-based web application that allows users to take assessments
 **User-Friendly Interface:** The application provides a smooth and intuitive interface for taking quizzes.
 
 **🚀 How It Works**
+
 ------------------------------------------------------------------------------------------------------------------------------------------
  **1. Start the Quiz:** The quiz begins with the first question displayed on the screen.
 
@@ -29,6 +30,7 @@ If no option is selected, the user cannot proceed to the next question.
 **4. Final Score:** Once the user completes all questions, the application displays the final score out of the total number of questions.
 
 **🛠️ Technologies Used**
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 **ReactJS:** Frontend framework for building the user interface.
 
@@ -41,6 +43,7 @@ If no option is selected, the user cannot proceed to the next question.
 
 
 **📋 How to Run the Project**
+
 ------------------------------------------------------------------------------------------------------------------------------------------
 
 **1. Clone the repository:**
