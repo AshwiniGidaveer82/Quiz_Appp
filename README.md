@@ -26,8 +26,11 @@ Final Score:
 Once the user completes all questions, the application displays the final score out of the total number of questions.
 
 🛠️ Technologies Used
+
 ReactJS: Frontend framework for building the user interface.
+
 State Management: Managed using React's useState and useEffect hooks.
+
 CSS: For styling the application.
 
 ![Quiz_App](https://github.com/user-attachments/assets/1950c542-e7ea-4781-903f-b09b1250270a)
