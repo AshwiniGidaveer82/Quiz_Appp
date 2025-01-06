@@ -35,5 +35,7 @@ CSS: For styling the application.
 Screenshot 2025-01-06 at 12 35 45 PM
 
 📋 How to Run the Project
-Clone the repository:
-git clone https://github.com/AshwiniGidaveer82/quizapp.git
+
+1. Clone the repository:
+   
+git clone https://github.com/AshwiniGidaveer82/Quiz_Appp.git
